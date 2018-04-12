@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: vishwajeet
+Class-Path: mysql-connector-java-5.1.39.jar spring-context-5.0.4.RELEA
+ SE.jar spring-aop-5.0.4.RELEASE.jar spring-beans-5.0.4.RELEASE.jar sp
+ ring-core-5.0.4.RELEASE.jar spring-jcl-5.0.4.RELEASE.jar spring-expre
+ ssion-5.0.4.RELEASE.jar HikariCP-2.7.8.jar slf4j-api-1.7.25.jar jdbi-
+ 2.73.jar
+Build-Jdk: 1.8.0_151
+Created-By: Maven Integration for Eclipse
+Main-Class: com.foodservice.App
+
